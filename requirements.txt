@@ -1,0 +1,5 @@
+gym
+numpy==1.23.5
+pygame
+matplotlib
+torch
