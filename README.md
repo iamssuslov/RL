@@ -25,4 +25,8 @@
 
 1. Установите зависимости:
    ```bash
-   pip install gym numpy matplotlib torch  # или tensorflow, в зависимости от фреймворка
+   pip install gym numpy matplotlib stable-baselines3
+
+2. Запустите файл скрипта:
+   ```bash
+   python main.py
